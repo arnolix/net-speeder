@@ -15,8 +15,8 @@ A program to speed up single thread download upon long delay and unstable networ
 
 1：下载源码并解压
 
-    wget https://github.com/snooda/net-speeder/archive/master.zip
-    unzip master.zip
+    git clone https://github.com/arnolix/net-speeder.git
+    cd net-speeder
 
 2：准备编译环境
 
